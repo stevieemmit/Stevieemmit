@@ -1,4 +1,4 @@
-[![MasterHead](https://media.istockphoto.com/photos/python-programming-language-concept-woman-developer-with-her-hand-picture-id1189210101?b=1&k=20&m=1189210101&s=170667a&w=0&h=JPPA3aVkd2O6csgAvZ1jO9QcS-KlaV25xGslHF1Rr7w=)
+
 <h1 align="center">Hi 👋, I'm Stevie Emmit</h1>
 
 <h3 align="center">A passionate Python developer from Nigeria</h3>
