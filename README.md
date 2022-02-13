@@ -3,6 +3,7 @@
 
 <h3 align="center">A passionate Python developer from Nigeria</h3>
 
+I am a Python Developer, who is proefficient with django and flask. I am also a Content Creator and Photographer who is passionate about learning and improving my skills as well as collaborating with other Developers.
 
 - 🔭 I’m currently working on **Python Password Safe**
 
