@@ -1,8 +1,8 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaM1x3u8kwZzml87uh3A64BKLys0BK9NGsyQ&usqp=CAU)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Stevie Emmit</h1>
 
 <h3 align="center">A passionate Python developer from Nigeria</h3>
-<img align="right" alt = "coding" width= "400" scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaM1x3u8kwZzml87uh3A64BKLys0BK9NGsyQ&usqp=CAU"
+
 
 - 🔭 I’m currently working on **Python Password Safe**
 
