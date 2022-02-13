@@ -1,6 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdBStbh-tnbFrZUmcDZAjSP3tV0C26jyuE3w&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Stevie Emmit</h1>
+
 <h3 align="center">A passionate Python developer from Nigeria</h3>
+<img align="right" alt = "coding" width= "400" scr="https://butlerm.tumblr.com/post/646480093425876992/its-all-1s-and-0s-downloadwatch-the-full-video"
 
 - 🔭 I’m currently working on **Python Password Safe**
 
