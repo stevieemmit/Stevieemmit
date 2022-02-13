@@ -1,8 +1,8 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdBStbh-tnbFrZUmcDZAjSP3tV0C26jyuE3w&usqp=CAU)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaM1x3u8kwZzml87uh3A64BKLys0BK9NGsyQ&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Stevie Emmit</h1>
 
 <h3 align="center">A passionate Python developer from Nigeria</h3>
-<img align="right" alt = "coding" width= "400" scr="https://butlerm.tumblr.com/post/646480093425876992/its-all-1s-and-0s-downloadwatch-the-full-video"
+<img align="right" alt = "coding" width= "400" scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaM1x3u8kwZzml87uh3A64BKLys0BK9NGsyQ&usqp=CAU"
 
 - 🔭 I’m currently working on **Python Password Safe**
 
